@@ -1,0 +1,12 @@
+{
+  "name": "darealperc",
+  "version": "1.0.0",
+  "description": "Percolation but in javascript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node percStats.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
